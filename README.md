@@ -1,4 +1,2 @@
 # Oil Bath Immersion Cooker
-All the information regarding the construction and running of the "Big Blue Box" built to drive 600W worth of LEDs using water cooling.
-
-This project is an extension of the previous, smaller blue box, and will get a more thorough writeup later
+ All the information regarding the construction and running of the "Oil Bath" built convert an analog Thermo fisher water bath into a digital Sous Vide machine.  This project was superseded by the purchase of a commercial immersion circulator, and will get a more thorough writeup later
